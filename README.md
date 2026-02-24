@@ -88,6 +88,7 @@ AI tools designed to analyze code for quality, security, performance, and adhere
 *   **[Codacy](https://www.codacy.com/)** - An automated code review tool that uses static analysis and incorporates AI/ML to identify code quality issues, security vulnerabilities, and style inconsistencies. Provides dashboards and integrates with Git repositories.
 *   **[Code Climate Quality](https://codeclimate.com/quality/)** - Provides automated code review, combining static analysis techniques with maintainability checks. While traditionally rules-based, platforms like this are increasingly exploring AI to enhance issue detection and reporting.
 *   **[GitHub Copilot Enterprise / Security Features](https://github.com/features/security/code-scanning)** - GitHub's platform includes advanced security features, some leveraging AI, like code scanning (powered by CodeQL and potentially enhanced AI insights) to find vulnerabilities directly within the repository and pull requests.
+*   **[Revieko / GitHub App](https://synqra.tech/revieko/)** - Architecture drift radar for pull requests (structural risk scoring + drift hotspots + review hints).
 
 ## Testing Automation
 

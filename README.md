@@ -81,6 +81,7 @@ While many general assistants include these features, some tools specialize prim
 *   **[Mutable AI](https://mutable.ai/)** - Focuses on AI-accelerated software development, offering features like converting codebase sections based on prompts ("Prompt-Driven Development"), generating tests, documentation, and suggesting refactors. Aims to automate significant parts of the development workflow.
 *   **[Continue.dev (Open Source)](https://continue.dev/)** - An open-source autopilot for software development that integrates with VS Code and JetBrains. It allows developers to use various LLMs (local or remote) for code generation, editing, and debugging within their IDE, providing a flexible and extensible platform.
 *   **[GPT-Engineer (Open Source)](https://github.com/gpt-engineer-org/gpt-engineer)** - An open-source project aiming to generate entire codebases from a high-level prompt. Specify what you want to build, and it attempts to generate the necessary file structures, code, and configuration. More experimental but shows the potential for large-scale generation.
+*   **[Roblox GUI Maker](https://robloxguimaker.dev/)** - A free AI tool for Roblox Studio developers that turns natural language prompts into GUI layout ideas and Lua starter code for menus, HUDs, shop screens, and other in-game UI prototypes.
 
 ## Debugging & Error Resolution
 

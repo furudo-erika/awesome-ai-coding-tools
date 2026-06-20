@@ -72,6 +72,7 @@ These tools offer broad assistance across the coding lifecycle, often integratin
 *   **[Blackbox AI](https://www.blackbox.ai/)** - An AI coding assistant offering code generation, completion, explanation, and chat features. It integrates with VS Code and also provides a web-based interface and desktop application. Supports a wide range of programming languages.
 *   **[Bito AI](https://bito.ai/)** - An AI assistant designed to significantly speed up development tasks. Integrates with IDEs and browsers, offering features like code generation, explanation, performance checks, security analysis, test case generation, and comment generation. Uses models like ChatGPT and Claude.
 *   **[AskCodi](https://www.askcodi.com/)** - Provides a suite of AI-powered tools for developers accessible via IDE extensions and a web app. Features include code generation, explanation, documentation, test creation, SQL generation, and more, supporting multiple languages. Offers different "apps" tailored to specific tasks.
+*   **[AdaL](https://sylph.ai/)** - Self-evolving AI coding agent from SylphAI. Runs locally, keeps code private, and lets models collaborate (Claude, GPT, Gemini). Uses auto-prompting to learn your codebase patterns. Built on open-source [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow). [Docs](https://docs.sylph.ai/) | [Discord](https://discord.com/invite/ezzszrRZvT).
 
 ## Code Generation & Completion
 

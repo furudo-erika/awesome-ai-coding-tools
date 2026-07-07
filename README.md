@@ -136,6 +136,7 @@ AI tools focused on specific languages, frameworks, or tasks.
 *   **[AI SQL Query Builders (various)](https://www.google.com/search?q=ai+sql+query+builder)** - Numerous tools are emerging that allow users to generate complex SQL queries from natural language prompts (e.g., AI2sql, Seek AI, numerous chat interfaces). Useful for data analysts and developers interacting with databases.
 *   **[AI Regex Generators (various)](https://www.google.com/search?q=ai+regex+generator)** - Tools that help generate complex Regular Expressions from plain English descriptions, saving time and frustration (e.g., autoregex.xyz, Regex AI).
 *   **[GitHub Copilot CLI](https://github.com/cli/cli/blob/trunk/docs/gh_copilot.md)** - Uses AI to translate natural language commands into shell commands, making complex terminal operations more accessible.
+*   **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** - Framework-agnostic local-first Rust CLI/TUI for AI coding-agent memory lifecycle, with SQLite/FTS recall, audit, forgetting, source-linked evidence, and portable skill guidance.
 *   **[Warp Terminal (AI Features)](https://www.warp.dev/warp-ai)** - A modern terminal emulator that integrates AI to help users recall commands, debug errors, or generate new commands using natural language.
 
 ## Platforms Integrating AI Heavily

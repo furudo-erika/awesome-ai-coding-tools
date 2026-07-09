@@ -133,6 +133,7 @@ Tools using AI to help developers search, navigate, and understand large or unfa
 
 AI tools focused on specific languages, frameworks, or tasks.
 
+*   **[AgentBox](https://github.com/madarco/agentbox)** - Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM (local Docker, self-hosted, or cloud). Sub-second checkpoints, per-box browser/VS Code/shells, git credentials kept on the host.
 *   **[AI SQL Query Builders (various)](https://www.google.com/search?q=ai+sql+query+builder)** - Numerous tools are emerging that allow users to generate complex SQL queries from natural language prompts (e.g., AI2sql, Seek AI, numerous chat interfaces). Useful for data analysts and developers interacting with databases.
 *   **[AI Regex Generators (various)](https://www.google.com/search?q=ai+regex+generator)** - Tools that help generate complex Regular Expressions from plain English descriptions, saving time and frustration (e.g., autoregex.xyz, Regex AI).
 *   **[GitHub Copilot CLI](https://github.com/cli/cli/blob/trunk/docs/gh_copilot.md)** - Uses AI to translate natural language commands into shell commands, making complex terminal operations more accessible.

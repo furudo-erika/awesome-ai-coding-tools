@@ -93,6 +93,8 @@ Tools focused on helping developers find and fix bugs more efficiently using AI.
 
 ## Code Review, Analysis & Quality
 
+*   **[heygrc](https://heygrc.com/)** - GitHub App that reviews pull requests for compliance-control impact (ISO 27001, SOC 2, GDPR, EU AI Act, and more) and cites the control clause. Free for public repositories. By ISMS Copilot.
+
 AI tools designed to analyze code for quality, security, performance, and adherence to best practices.
 
 *   **[SonarQube / SonarCloud with AI (evolving)](https://www.sonarsource.com/)** - SonarSource platforms are leaders in static code analysis. They are incorporating AI (like an integration with GitLab Duo) to provide more context-aware explanations of issues and suggest fixes for bugs and security vulnerabilities identified during analysis.

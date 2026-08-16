@@ -106,6 +106,7 @@ AI tools designed to analyze code for quality, security, performance, and adhere
 AI is being applied to generate test cases, improve test coverage, and automate parts of the testing process.
 
 *   *(See also General Assistants like Copilot, Cody, Bito which can generate unit tests)*
+*   **[Agent QA](https://github.com/vostride/agent-qa)** - The self-improving QA agent for software teams, with natural-language web/mobile tests, persistent test memory, and self-healing flows.
 *   **[Diffblue Cover](https://www.diffblue.com/)** - An AI-powered tool specifically focused on autonomously writing Java unit tests. It analyzes Java code and automatically generates Jest tests that reflect the current behavior, helping achieve high test coverage quickly.
 *   **[Functionize](https://www.functionize.com/)** - An intelligent testing platform that uses AI/ML for creating, executing, and maintaining automated functional tests, particularly for web applications. It aims to reduce test flakiness and maintenance effort.
 *   **[Applitools](https://applitools.com/)** - Focuses on Visual AI testing. It compares screenshots of application UIs across different browsers and devices, using AI to detect meaningful visual regressions while ignoring minor, insignificant rendering differences.

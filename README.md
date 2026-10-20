@@ -137,6 +137,7 @@ AI tools focused on specific languages, frameworks, or tasks.
 *   **[AI Regex Generators (various)](https://www.google.com/search?q=ai+regex+generator)** - Tools that help generate complex Regular Expressions from plain English descriptions, saving time and frustration (e.g., autoregex.xyz, Regex AI).
 *   **[GitHub Copilot CLI](https://github.com/cli/cli/blob/trunk/docs/gh_copilot.md)** - Uses AI to translate natural language commands into shell commands, making complex terminal operations more accessible.
 *   **[Warp Terminal (AI Features)](https://www.warp.dev/warp-ai)** - A modern terminal emulator that integrates AI to help users recall commands, debug errors, or generate new commands using natural language.
+*   **[FlowDeck](https://flowdeck.studio/)** - Native macOS workspace and CLI for Apple developers where coding agents such as Claude Code, Codex and Cursor build, run and test iOS and macOS apps in existing Xcode projects. Each session runs in its own Git worktree and simulator.
 
 ## Platforms Integrating AI Heavily
 

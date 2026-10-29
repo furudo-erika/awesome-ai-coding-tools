@@ -142,6 +142,7 @@ AI tools focused on specific languages, frameworks, or tasks.
 
 Development platforms or environments where AI features are becoming central to the user experience.
 
+*   **[AppWizzy](https://appwizzy.com/)** - AI-assisted web app development in dedicated cloud VMs, with runtime templates, Git-backed source editing, and hosted Codex workspaces.
 *   **[Replit](https://replit.com/)** - An online IDE with deeply integrated AI (Ghostwriter) for code generation, completion, explanation, and transformation. Excellent for quick prototyping and learning.
 *   **[GitLab Duo](https://about.gitlab.com/gitlab-duo/)** - GitLab's suite of AI capabilities integrated across the software development lifecycle, including suggested reviewers, code suggestions, issue summarization, vulnerability explanation, and value stream forecasting.
 *   **[Microsoft Azure AI Studio / GitHub Copilot Workspace (Evolving)](https://azure.microsoft.com/en-us/products/ai-studio/)** - Microsoft is heavily investing in AI across its developer tools and cloud platform, aiming for seamless integration from idea to code to cloud deployment, leveraging OpenAI models. Copilot Workspace represents a future vision of an AI-native development environment.

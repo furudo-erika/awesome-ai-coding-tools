@@ -128,6 +128,7 @@ Tools using AI to help developers search, navigate, and understand large or unfa
 *   **[Sourcegraph (Core Features + Cody)](https://sourcegraph.com/)** - While Sourcegraph is a powerful code search and navigation platform in itself, its AI layer (Cody) significantly enhances understanding by allowing natural language queries about the codebase, explaining code snippets, and identifying code usage patterns.
 *   **[Glean](https://www.glean.com/)** - An enterprise search platform that can index code repositories (along with other company knowledge). Its AI capabilities allow developers to ask natural language questions and find relevant code snippets, documentation, and discussions across the organization.
 *   **[You.com (Code Mode)](https://you.com/)** - A search engine with various modes, including a "YouCode" mode that uses AI to search code snippets, documentation, and developer forums, providing synthesized answers and relevant links.
+*   **[ContextStream](https://contextstream.io)** - Shared project context for Cursor, Claude Code, Codex, and Grok via MCP (`https://mcp.contextstream.io/mcp`). Intelligence isn’t the bottleneck. Context is. ([OSS server](https://github.com/contextstream/mcp-server))
 
 ## Specialized & Niche Tools
 
